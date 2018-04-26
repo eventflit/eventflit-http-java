@@ -147,6 +147,7 @@
           <repositoryName>eventflit-http-java</repositoryName> <!-- github repo name -->
           <repositoryOwner>erickponce</repositoryOwner> <!-- github username -->
           <noJekyll>true</noJekyll> <!-- disable webpage processing -->
+          <skipDeploy>true</skipDeploy>
         </configuration>
         <executions>
           <!-- run site-maven-plugin's 'site' target as part of the build's normal 'deploy' phase -->
