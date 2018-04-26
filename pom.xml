@@ -144,7 +144,7 @@
         <configuration>
           <server>github</server>
           <repositoryName>eventflit-http-java</repositoryName> <!-- github repo name -->
-          <repositoryOwner>eventflit</repositoryOwner> <!-- github username -->
+          <repositoryOwner>erickponce</repositoryOwner> <!-- github username -->
           <noJekyll>true</noJekyll> <!-- disable webpage processing -->
         </configuration>
         <executions>
