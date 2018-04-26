@@ -88,7 +88,7 @@ public class EventflitChannelAuthTest {
     @Test
     public void presenceChannelAuth() {
         assertThat(p.authenticate("1234.1234", "presence-foobar", new PresenceUser(Integer.valueOf(10), Collections.singletonMap("name", "Mr. Eventflit"))),
-                is("{\"auth\":\"278d425bdf160c739803:afaed3695da2ffd16931f457e338e6c9f2921fa133ce7dac49f529792be6304c\",\"channel_data\":\"{\\\"user_id\\\":10,\\\"user_info\\\":{\\\"name\\\":\\\"Mr. Eventflit\\\"}}\"}"));
+                is("{\"auth\":\"278d425bdf160c739803:2be06ed82a4f555af6d0669e6fba1bb9e0d93a1af0492c4e59a8e5f29200daa5\",\"channel_data\":\"{\\\"user_id\\\":10,\\\"user_info\\\":{\\\"name\\\":\\\"Mr. Eventflit\\\"}}\"}"));
     }
 
     @Test(expected = IllegalArgumentException.class)
