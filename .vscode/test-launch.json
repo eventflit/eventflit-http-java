@@ -1,0 +1,22 @@
+{
+    "run": [
+        {
+            "name": "pusher-http-java",
+            "projectName": "pusher-http-java",
+            "workingDirectory": "/home/local/ALTERDATA/erickleao.dsn.cir/dsn/github/ev/eventflit-http-java",
+            "args": [],
+            "vmargs": [],
+            "preLaunchTask": ""
+        }
+    ],
+    "debug": [
+        {
+            "name": "pusher-http-java",
+            "projectName": "pusher-http-java",
+            "workingDirectory": "/home/local/ALTERDATA/erickleao.dsn.cir/dsn/github/ev/eventflit-http-java",
+            "args": [],
+            "vmargs": [],
+            "preLaunchTask": ""
+        }
+    ]
+}

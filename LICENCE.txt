@@ -1,0 +1,4 @@
+Eventflit Java Library
+
+Copyright 2014, Pusher
+Released under the MIT licence.
